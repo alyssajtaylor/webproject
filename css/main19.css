@@ -1,0 +1,26 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+a:link {
+	color: white;
+	text-decoration: none;}
+	
+a:visited {
+	color:white;}
+
+
+    h1 {text-align:center;
+    color: grey;  
+    font-size:20px;
+margin-top: 400px;}
+
+
+    
+
+
+body {font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+    
+   background: black; 
+        
+  }

@@ -1,0 +1,50 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+a:link {
+	color: white;
+	text-decoration: none;}
+	
+a:visited {
+	color:white;}
+
+
+    h1 {text-align:center;
+    color:white;   
+	line-height:100px;
+    font-size:200px;
+	
+	background: grey; }
+
+h2 { text-align: center;
+color:white;
+     font-style: bold;
+    line-height:170px;
+    font-size:200px;
+	background: grey; }
+
+h3 { text-align:center;
+    color: grey;
+    font-size:20px;
+ font-style: italic
+     background: grey ; }
+
+h4 { text-align:center;
+    color:white;
+    font-size:35px;
+ font-style: italic; 
+    letter-spacing: 10px;
+        
+    
+}
+
+
+body {font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+    
+   
+
+background: black; 
+        
+        
+  }

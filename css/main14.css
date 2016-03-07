@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+
+background: #16222A; /* fallback for old browsers */
+background: -webkit-linear-gradient(to left, #16222A , #3A6073); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to left, #16222A , #3A6073); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+; 
+        }
+
+a:link {
+	color:#ffe066;
+	text-decoration: none;}
+	
+a:visited {
+	color:white;}
+
+    h1 {text-align:left;
+    color:white;
+    font-style: bold;
+    font-size:70px;
+margin-left:70px;}
+
+ h2 {text-align:left;
+    color:white;
+    font-style: bold;
+    font-size:70px;
+margin-left:70px;
+letter-spacing:13px}
+
+h3 { text-align: right;
+color:white;
+     font-style: bold;
+    line-height:40px;
+    font-size:30px;
+    margin-top:200px;
+margin-right:70px;
+letter-spacing:4px;}
+
+}

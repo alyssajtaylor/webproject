@@ -1,0 +1,32 @@
+/* CSS Document */
+
+a:link {
+	color:#ffe066;
+	text-decoration: none;}
+	
+a:visited {
+	color:white;}
+
+body {
+    background-color: black;
+   font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+    line-height:5px;}
+    
+h1 { color:white;
+    font-size:150px;}
+
+h2 { margin-left: 150px;
+color:white;
+    font-size:150px;}
+
+h3 {margin-left: 300px;
+color:white;
+    font-size:150px;}
+
+h4 {margin-top:600px;
+    text-align:right;
+    color:#ffe066;
+	font-style: italic;
+    font-size:150px;}
+
+    

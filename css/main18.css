@@ -1,0 +1,54 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+a:link {
+	color: white;
+	text-decoration: none;}
+	
+a:visited {
+	color:white;}
+
+
+    h1 {text-align:center;
+    color:white;  
+    font-size:200px;
+	line-height: 100px }
+
+h2 { text-align: center;
+color:white;
+     font-style: bold;
+    font-size:150px;
+    line-height: 75px
+	 }
+
+h3 { text-align:center;
+    color: white;
+    font-size:100px;
+line-height: 50px}
+
+h4 { text-align:center;
+    color:white;
+    font-size:50px;
+    line-height: 25px
+    letter-spacing: 10px;
+        }
+        
+h5 { text-align:center;
+    color: lightgoldenrodyellow;
+    font-size:25px;
+ font-style: italic; 
+    line-height: 10px
+    letter-spacing: 10px;
+        }
+
+
+body {font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+    
+   background: black; /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, black , #484848 ); /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, black , #484848 ); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+        
+        
+  }

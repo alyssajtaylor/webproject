@@ -1,0 +1,41 @@
+@charset "UTF-8";
+/* CSS Document */
+
+body {font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+
+a:link {
+	color: white;
+	text-decoration: none;}
+	
+a:visited {
+	color:white;}
+    
+background: #000000; /* fallback for old browsers */
+background: -webkit-radial-gradient(circle, #000000 , #53346D); /* Chrome 10-25, Safari 5.1-6 */
+background: radial-gradient(circle, #000000 , #53346D); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+        
+        }
+
+    h1 {text-align:center;
+    color:white;
+    font-style: bold;
+    font-size:30px;
+}
+
+ h2 {text-align:center;
+    color:white;
+    font-style: bold;
+    font-size:70px;
+letter-spacing:13px}
+
+h3 { text-align: center;
+color:white;
+     font-style: bold;
+    line-height:40px;
+    font-style: italic;
+    font-size:80px;
+    
+    margin-top:200px;
+letter-spacing:4px;}
+
+}

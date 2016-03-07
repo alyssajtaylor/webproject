@@ -1,0 +1,17 @@
+@charset "UTF-8";
+/* CSS Document */
+
+html {
+    background-color: black;
+}
+body {
+    
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+    font-size: 30px;
+    line-height: 2.2em;
+    color: white;
+	margin: 1em;
+	text-align: center;
+}
+
+	

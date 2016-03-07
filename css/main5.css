@@ -1,0 +1,36 @@
+@charset "UTF-8";
+/* CSS Document */
+
+		
+			a:link {
+	color: white;
+	text-decoration: none;}
+	
+	a:visited {
+	color:white;}
+
+h1 { margin: 50px;
+    font-size:200px;
+	margin-top: 
+}
+
+h2 { 
+text-align: right;
+margin-top: 30em;
+margin-right: 50px;
+margin-bottom: 40px;
+	}
+body { 
+    font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+		color:white;
+		
+		 background: #b30000; /* For browsers that do not support gradients */
+  background: -webkit-linear-gradient(left, black, black,black,black,black,#4d0000, #b30000,#ffaa00 ); /* For Safari 5.1 to 6.0 */
+  background: -o-linear-gradient(right, black, black,black,black,black,#4d0000, #b30000, #ffaa00); /* For Opera 11.1 to 12.0 */
+  background: -moz-linear-gradient(right, black, black,black,black,black,#4d0000,#b30000, #ffaa00); /* For Firefox 3.6 to 15 */
+  background: linear-gradient(to right, black, black, black, black,black,#4d0000,#b30000, #ffaa00 ; /* Standard syntax */
+
+a:link { color:white;
+text-decoration: none;
+}
+ 

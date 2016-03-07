@@ -1,0 +1,47 @@
+@charset "UTF-8";
+/* CSS Document */
+
+
+a:link {
+	color: white;
+	text-decoration: none;}
+	
+a:visited {
+	color:white;}
+
+
+    h1 {text-align:left;
+     margin-right:50px;
+    color:white;   
+	line-height:130px;
+    font-size:200px;
+	
+	background: #b34700; }
+
+h2 { text-align: right;
+    margin-right:50px ;
+color:white;
+     font-style: bold;
+    line-height:130px;
+    font-size:200px;
+	background: #b34700; }
+
+h3 { text-align:center;
+    color:white;
+    font-size:20px;
+ font-style: italic
+ background: #b34700; 
+        ;
+    
+}
+
+body {font-family: Futura,"Trebuchet MS",Arial,sans-serif;
+    
+   
+
+background: black; 
+        
+        
+  }
+
+
